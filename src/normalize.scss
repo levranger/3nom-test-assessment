@@ -1,0 +1,19 @@
+* { margin: 0; padding: 0; font-family: 'Be Vietnam Pro', sans-serif; }
+
+button, input[type="submit"], input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+li {
+  list-style: none;
+}
+
+input {
+  outline: none;
+}

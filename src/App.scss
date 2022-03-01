@@ -1,0 +1,41 @@
+.wrapper{
+  flex-direction: column;
+  background-color: aliceblue;
+  display: flex;
+  min-height: 100vh;
+  height: 100%;
+  justify-content: flex-start;
+  padding: 50px;
+}
+
+
+.main-speaker-option {
+  padding-bottom: 15px;
+}
+
+.select {
+  height: 30px;
+}
+
+.top-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.search-button {
+  width: 150px;
+  height: 20px;
+  background-color: crimson;
+  padding: 15px;
+  text-align: center;
+  margin: 0 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #980220;
+  color: white;
+
+}
